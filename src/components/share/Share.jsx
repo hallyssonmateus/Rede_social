@@ -16,18 +16,18 @@ export default function Share() {
                     </div>
 
                     <div className="shareOption">
-                        <span className="shareOptionText">Photo/Video</span>                    
+                        <span className="shareOptionText">Tag</span>                    
                     </div>
 
                     <div className="shareOption">
-                        <span className="shareOptionText">Photo/Video</span>                    
+                        <span className="shareOptionText">Location</span>                    
                     </div>
 
                     <div className="shareOption">
-                        <span className="shareOptionText">Photo/Video</span>                    
+                        <span className="shareOptionText">Feelings</span>                    
                     </div>
                 </div>
-                
+                <button className="shareButton">Share</button>
             </div>
         </div>
     </div>
